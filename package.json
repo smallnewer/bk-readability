@@ -1,6 +1,6 @@
 {
   "name": "bk-readability",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "bokan's readability.what is the tools only i used.",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,13 @@
   "bugs": {
     "url": "https://github.com/smallnewer/bk-readability/issues"
   },
-  "dependencies": {},
-  "devDependencies": {}
+  "dependencies": {
+    "jQuery": "1.7.4",
+    "jsdom": "~0.2.14",
+    "htmlparser": "1.7.6",
+    "xmlhttprequest": "~1.4.2",
+    "location": "0.0.1",
+    "navigator": "~1.0.1"
+  }
 
 }
