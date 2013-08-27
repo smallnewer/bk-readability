@@ -1,0 +1,25 @@
+{
+  "name": "bk-readability",
+  "version": "0.0.1",
+  "description": "bokan's readability.what is the tools only i used.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smallnewer/bk-readability.git"
+  },
+  "keywords": [
+    "bokan",
+    "readability"
+  ],
+  "author": "news",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smallnewer/bk-readability/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+
+}
